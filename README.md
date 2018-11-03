@@ -11,8 +11,7 @@ With this data, I will try to answer the following Questions
 #Installation
 
 Clone the github repository using
-'''
+```git
 $ git clone https://github.com/mathubhalan/Black-Friday-Sales.git
-
-'''
+```
 
